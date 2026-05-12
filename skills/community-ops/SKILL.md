@@ -7,7 +7,7 @@ description: |
 
 # community-ops：社群运营诊断与规划
 
-> 💡 配合 wechat cli 使用效果更佳
+> 💡 配合 wechat cli 直接读取微信聊天记录使用，效果更佳
 
 ## 一、开始前必问（诊断输入）
 

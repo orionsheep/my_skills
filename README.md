@@ -2,7 +2,7 @@
 
 私域运营 Agent Skills，适配 Claude Code / Codex / Cursor / Trae Solo。
 
-配合 **wechat cli** 使用效果更佳。
+配合 **wechat cli** 直接读取微信聊天记录和朋友圈，使用效果更佳。
 
 ---
 
